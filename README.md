@@ -30,7 +30,7 @@ THEN I find a concise, descriptive title
 ! [Horiseon Webpage with refactored code.] (./assets/screenshot-final-project.png)
 
 ## Usage
-Please use the following link to view the webpage: . The source code and style sheets are available for review. Labels have been commented out in the style sheet.
+Please use the following link to view the webpage: https://jknowles10.github.io/challenge-1/. The source code and style sheets are available for review. Labels have been commented out in the style sheet.
 
 ## Credits
 The Coding Boot Camp at UT Austin
